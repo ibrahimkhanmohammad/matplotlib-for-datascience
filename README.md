@@ -67,4 +67,5 @@ jupyter notebook
 ## Author
 
 **Ibrahim**, Computer Science student specializing in Data Science and AI/ML.
-[GitHub](https://github.com/ibrahimkhanmohammad) · [LinkedIn](www.linkedin.com/in/ibrahimkhanmohammad)
+
+[GitHub](https://github.com/ibrahimkhanmohammad) · [LinkedIn](https://www.linkedin.com/in/ibrahimkhanmohammad/)

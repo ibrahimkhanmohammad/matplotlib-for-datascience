@@ -8,6 +8,8 @@ A structured, practice-driven curriculum for data visualization in Python. It is
 
 ## Overview
 
+Companion repo: [seaborn-for-datascience](https://github.com/ibrahimkhanmohammad/seaborn-for-datascience)
+
 Before training any model, you need to understand your data: its distribution, outliers, relationships and trends. This repository builds that skill step by step. Each of the 11 modules pairs a concept notebook with a practice notebook of applied tasks and conceptual questions.
 
 ## Why this matters for ML
